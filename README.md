@@ -1,4 +1,4 @@
-# EVALUACION INDIVIDUAL: TRANSFORMACION DE DATOS - Modulo 3
+# EV. INDIVIDUAL: TRANSFORMACION DE DATOS - Modulo 3
 
 📖 Este README es para la tercera evaluación de Arellis Carla Quispe Tpres para el bootcamp de Data Analytics. Esta tarea se enfoca en analizar el comportamiento de clientes dentro de un programa de fidelidad de una aerolinea ✈️. El objetivo de esta tarea es obtener información sobre los patrones de los clientes en sus reservas de vuelos.
 
